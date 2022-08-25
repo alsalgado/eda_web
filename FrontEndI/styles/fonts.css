@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,900;1,100;1,300;1,400;1,900&display=swap');
+
+
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+div{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+/* p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.card > p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+} */
